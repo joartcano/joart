@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.joart.widgets.LinkWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Link Widget</label>
+  <description>linkWidget</description>
+</widget>
